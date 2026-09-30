@@ -208,6 +208,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[Openfort](https://github.com/openfort-xyz/mcp)** - Supercharge your AI assistant with plug-and-play access to authentication, project scaffolding, and smart wallet tooling.
 - **[Oxylabs](https://github.com/oxylabs/oxylabs-mcp)** - Scrape websites with Oxylabs Web API, supporting dynamic rendering and parsing for structured data extraction.
 - **[PaddleOCR](https://paddlepaddle.github.io/PaddleOCR/latest/en/version3.x/deployment/mcp_server.html)** - An MCP server that brings enterprise-grade OCR and document parsing capabilities to AI applications.
+- **[past.dev](https://past.dev)** - Remote memory server for AI agents. Send timestamped text, ask what is true now, and get the current facts back with their dated sources and what each one replaced. Ranked first on BEAM from 100K to 10M tokens.
 - **[PayPal](https://github.com/paypal/agent-toolkit)** - The PayPal Model Context Protocol server allows you to integrate with PayPal APIs through function calling. This protocol supports various tools to interact with different PayPal services.
 - **[Pearl](https://mcp.pearl.com)** - Official MCP Server to interact with Pearl API. Connect your AI Agents with 12,000+ certified experts instantly.
 - **[Pearch](https://github.com/Pearch-ai/mcp_pearch)** - Best people search engine that reduces the time spent on talent discovery.
